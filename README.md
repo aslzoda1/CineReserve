@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E50914&height=120&section=header&text=🎬%20𝑪𝑰𝑵𝑬𝑹𝑬𝑺𝑬𝑹𝑽𝑬:%20𝑩𝑶𝑶𝑲𝑰𝑵𝑮%20𝑺𝒀𝑺𝑻𝑬𝑴&fontSize=35&fontColor=ffffff" width="100%"/>
 
-</div>
+</div> 
 
 🎬 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 𝑹𝒂𝒒𝒂𝒎𝒍𝒊 𝑲𝒊𝒏𝒐𝒕𝒆𝒂𝒕𝒓 𝑿𝒂𝒓𝒊𝒕𝒂𝒔𝒊
 CineReserve — bu kinoteatr zallaridagi o'rinliqlarni boshqarish, band qilish va bo'shatish jarayonlarini avtomatlashtiruvchi Kotlin dasturidir. Loyiha 5x5 o'lchamdagi 2D Matrix (ikki o'lchovli massiv) asosida qurilgan bo'lib, har bir joyning holatini (bo'sh yoki band) vizual tarzda terminalda ko'rsatib turadi. Bu — murakkab chipta sotish tizimlari va koordinatali algoritmlar bilan ishlashning ajoyib namunasidir.
