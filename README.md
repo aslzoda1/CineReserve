@@ -50,3 +50,6 @@ CineReserve — bu kinoteatr zallaridagi o'rinliqlarni boshqarish, band qilish v
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E50914&height=60&section=footer" width="100%"/>
 <b>💎 ENJOY THE SHOW — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
